@@ -2,7 +2,7 @@
   "id": "molorak-homebrew",
   "title": "Molorak Homebrew Stuff",
   "description": "This module is only to add homebrew options, items and features for dnd5e.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
