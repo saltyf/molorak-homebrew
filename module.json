@@ -7,6 +7,7 @@
     "minimum": "12",
     "verified": "12"
   },
+  "download": "https://github.com/saltyf/molorak-homebrew/releases/download/release/module.zip",
   "relationships": {
     "systems": [
       {
