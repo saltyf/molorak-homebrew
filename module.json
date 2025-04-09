@@ -7,7 +7,7 @@
     "minimum": "12",
     "verified": "12"
   },
-  "manifest": "https://raw.githubusercontent.com/saltyf/molorak-homebrew/refs/tags/release/module.json",
+  "manifest": "https://raw.githubusercontent.com/saltyf/molorak-homebrew/refs/heads/main/module.json",
   "download": "https://github.com/saltyf/molorak-homebrew/releases/download/release/module.zip",
   "relationships": {
     "systems": [
