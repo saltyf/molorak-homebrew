@@ -52,6 +52,17 @@
         "ASSISTANT": "OWNER"
       },
       "system": "dnd5e"
+    },
+    {
+      "name": "backgrounds",
+      "label": "Backgrounds",
+      "path": "packs/backgrounds",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
     }
   ],
   "packFolders": [
@@ -61,7 +72,8 @@
       "sorting": "m",
       "packs": [
         "species",
-        "equipment"
+        "equipment",
+        "backgrounds"
       ],
       "folders": []
     }
